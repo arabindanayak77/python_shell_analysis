@@ -11,6 +11,7 @@ import pandas
 import sys
 import matplotlib.pyplot as plt
 
+
 filename = sys.argv[1]
 
 human_chr21 = pandas.read_csv(filename, sep="\t")
