@@ -1,5 +1,5 @@
 # Add header to chromosome gene data
-
+# Last modified: Sat Dec 10 2016
 echo "starting combining script"
 for file in "$@"
 do
